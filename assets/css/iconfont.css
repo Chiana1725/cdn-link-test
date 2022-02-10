@@ -1,0 +1,210 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 1627080 */
+  src: url('//at.alicdn.com/t/font_1627080_twtnqcopdo.woff2?t=1634724516182') format('woff2'),
+       url('//at.alicdn.com/t/font_1627080_twtnqcopdo.woff?t=1634724516182') format('woff'),
+       url('//at.alicdn.com/t/font_1627080_twtnqcopdo.ttf?t=1634724516182') format('truetype');
+}
+.icon-OK:before {
+  content: "\e6ac";
+}
+
+.icon-cloud-upload:before {
+  content: "\e653";
+}
+
+.icon-cloud-download:before {
+  content: "\e652";
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 1rem;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-guanbi:before {
+  content: "\e609";
+}
+.icon-add:before {
+  content: "\e68a";
+}
+.icon-log:before {
+  content: "\e650";
+}
+.icon-shaixuan:before {
+  content: "\e612";
+}
+.icon-shangjiantou:before {
+  content: "\e64e";
+}
+
+.icon-xiajiantou:before {
+  content: "\e64f";
+}
+.icon-tongxunlu:before {
+  content: "\e64d";
+}
+.icon-sort-asc:before {
+  content: "\eb90";
+}
+
+.icon-sort-desc:before {
+  content: "\eb91";
+}
+.icon-car-solid:before {
+  content: "\e74f";
+}
+.icon-share:before {
+  content: "\e644";
+}
+.icon-yxmd:before {
+  content: "\e64c";
+}
+.icon-qxgl:before {
+  content: "\e645";
+}
+
+.icon-clock:before {
+  content: "\e646";
+}
+
+.icon-xmjd:before {
+  content: "\e648";
+}
+
+.icon-search-index:before {
+  content: "\e649";
+}
+
+.icon-zfrz:before {
+  content: "\e64a";
+}
+
+.icon-book:before {
+  content: "\e64b";
+}
+
+.icon-car:before {
+  content: "\e641";
+}
+
+.icon-at:before {
+  content: "\e7de";
+}
+.icon-camera:before {
+  content: "\e620";
+}
+
+.icon-emoj:before {
+  content: "\e621";
+}
+
+.icon-voice:before {
+  content: "\e622";
+}
+.icon-pen:before{
+  content: "\e628";
+}
+.icon-down:before{
+  content: "\e62a";
+}
+.icon-ok:before {
+  content: "\e647";
+}
+.icon-search-solid:before {
+  content: "\e611";
+}
+.icon-error:before {
+  content: "\e61a";
+}
+.icon-search:before {
+  content: "\e62b";
+}
+.icon-back:before {
+  content: "\e62c";
+}
+.icon-del:before {
+  content: "\e62d";
+}
+.icon-wechat:before {
+  content: "\e62e";
+}
+
+.icon-tel:before {
+  content: "\e62f";
+}
+
+.icon-speak:before {
+  content: "\e630";
+}
+
+.icon-bright:before {
+  content: "\e631";
+}
+.icon-right:before {
+  content: "\e63b";
+}
+  
+
+.icon-download:before {
+  content: "\e632";
+}
+
+.icon-rotate:before {
+  content: "\e633";
+}
+
+.icon-top:before {
+  content: "\e634";
+}
+
+.icon-wechat-solid:before {
+  content: "\e635";
+}
+
+.icon-scale:before {
+  content: "\e636";
+}
+
+.icon-camera-outline:before{
+  content: "\e637";
+}
+
+.icon-view:before {
+  content: "\e638";
+}
+
+.icon-comment:before{
+  content: "\e639";
+}
+.icon-publish:before{
+  content: "\e63a";
+}
+.icon-delete:before{
+  content: "\e627";
+}
+.icon-group:before{
+  content:'\e6d6'
+}
+
+.icon-download-arrow:before{
+  content: "\e63d";
+}
+.icon-loading:before {
+  content: "\e63e";
+}
+.icon-customer:before {
+  content: "\e63f";
+}
+.icon-more:before {
+  content: "\e643";
+}
+.icon-file:before {
+  content: "\e642";
+}
+.icon-edit:before{
+  content: "\e608";
+}
+.icon-material:before{
+  content:'\e640';
+}
